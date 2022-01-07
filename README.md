@@ -10,7 +10,7 @@ We have completed this request using the Principal Component Analysis (PCA) algo
 ![PCA](https://github.com/john10roberts/Cryptocurrencies/blob/main/Resources/PCA.png)
 
 Elbow Curve
-![KCurve](https://github.com/john10roberts/Cryptocurrencies/blob/main/Resources/PCA.png)
+![KCurve](https://github.com/john10roberts/Cryptocurrencies/blob/main/Resources/KCurve.png)
 
 3-D Scatter with Clusters Curve
 ![3d](https://github.com/john10roberts/Cryptocurrencies/blob/main/Resources/3DScatter.png)
